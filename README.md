@@ -1,8 +1,8 @@
-# Ising.jl
+# IsingRNN
 
 This code base is using the Julia Language and [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project named
-> Ising.jl
+> IsingRNN
 
 To (locally) reproduce this project, do the following:
 
@@ -18,3 +18,6 @@ To (locally) reproduce this project, do the following:
 
 This will install all necessary packages for you to be able to run the scripts and
 everything should work out of the box, including correctly finding local paths.
+
+---
+This repo is for the rewrite of the code for my undergraduate senior thesis (see https://github.com/jesseylin) in Julia.
